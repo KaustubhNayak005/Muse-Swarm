@@ -46,8 +46,8 @@ The workflow is designed to mimic a real creative team:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/KaustubhNayak005/Muse-Swarm.git](https://github.com/KaustubhNayak005/Muse-Swarm.git)
+    cd Muse-Swarm
     ```
 
 2.  **Set Up the Environment**

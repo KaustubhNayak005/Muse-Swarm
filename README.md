@@ -8,9 +8,6 @@ Creative Muse Swarm is a sophisticated multi-agent AI application designed to si
 
 **Try the live application here: [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)** *(Replace with your actual Streamlit URL after deploying)*
 
-![App Demo GIF](https://your-link-to-a.gif)
-*(Replace with a link to a GIF of your app in action)*
-
 ---
 
 ## ✨ Key Features

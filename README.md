@@ -6,7 +6,7 @@ Creative Muse Swarm is a sophisticated multi-agent AI application designed to si
 
 ## 🚀 Live Demo
 
-**Try the live application here: https://kaustubhnayak005-muse-swarm-app-kuwniy.streamlit.app/
+**Try the live application here: https://kaustubhnayak005-muse-swarm-app-kuwniy.streamlit.app/**
 ---
 
 ## ✨ Key Features
